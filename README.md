@@ -11,8 +11,7 @@ Run:
 java com.food.Main
 
 System Requirements:
-Java 8 or higher
-Command line access
+Java 8 or higher, Command line access
 
 Usage
 The application presents menu-driven options for both administrators and customers. Navigate through numbered choices to perform various operations like adding restaurants, managing menus, creating orders, and tracking deliveries.
